@@ -1,0 +1,10 @@
+# NSQIP participant use data and anything derived from it must never be committed
+data/
+outputs/
+*.pkl
+*.csv
+*.sav
+*.txt
+__pycache__/
+.pytest_cache/
+.DS_Store
